@@ -91,7 +91,7 @@ DATABASES = {
         'ENFORCE_SCHEMA': False,
         'NAME': 'djangotest',
         'CLIENT': {
-            'host': 'mongodb://localhost:27017',  # MongoDB URL for local instance
+            'host': 'mongodb+srv://localhost:GWaB8yrPjyl265Vw@paymentforkids.vliqoot.mongodb.net/PIM',  # MongoDB URL for local instance
         }
        
        
